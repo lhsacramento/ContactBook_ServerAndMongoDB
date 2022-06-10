@@ -17,14 +17,14 @@
 ### Como utilizar o código?
 
 <p>
-  1- Primeiramente você precisará criar um banco de dados no MongoDB e pegar o link de conexão (lembre de habilitar a conhexão), algo parecido com:
+  1 - Primeiramente você precisará criar um banco de dados no MongoDB e pegar o link de conexão (lembre de habilitar a conhexão), algo parecido com:
    - mongodb+srv://menunome:senha@NOMEBD.hrgnim5.mongodb.net/NOBASEDADOS?retryWrites=true&w=majority
-  2- Com o banco criado, você precisará criar um arquivo .env na raíz do projeto, onde ficará os arquivos confidencias da conexão como link de conexão, usuário e senha. Nesse arquivo vc coloca "connectionString = link de coneção do bd". Lembre de substituir os campos de user, password com os que vc criou no mongoDB.
-  3- No terminal, acesse a parta raíz do projeto e baixe  os módulos do projeto (npm install).
-  4- Após a instalação basta executar o servidor (npm start).
-  5- Para modificações no código, lembre de executar também o webpack pois usei ele para a plicação ter acesso em varios navegadores. (npm run dev). 
-  6- Lembre de executar os comandos e terminais diferentes.
-  7- Pronto, agora é só acessar, o canal usado é o 3000 então para acessar a aplicação é só digitar http://localhost:3000
+  2 - Com o banco criado, você precisará criar um arquivo .env na raíz do projeto, onde ficará os arquivos confidencias da conexão como link de conexão, usuário e senha. Nesse arquivo vc coloca "connectionString = link de coneção do bd". Lembre de substituir os campos de user, password com os que vc criou no mongoDB.
+  3 - No terminal, acesse a parta raíz do projeto e baixe  os módulos do projeto (npm install).
+  4 - Após a instalação basta executar o servidor (npm start).
+  5 - Para modificações no código, lembre de executar também o webpack pois usei ele para a plicação ter acesso em varios navegadores. (npm run dev). 
+  6 - Lembre de executar os comandos e terminais diferentes.
+  7 - Pronto, agora é só acessar, o canal usado é o 3000 então para acessar a aplicação é só digitar http://localhost:3000
 </p>
 
 
