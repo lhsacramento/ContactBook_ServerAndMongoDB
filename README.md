@@ -16,7 +16,7 @@
 
   1. Primeiramente faça um clone ou baixe esse projeto para seu computador.
   2. Primeiramente você precisará criar um banco de dados no MongoDB e pegar o link de conexão (lembre de habilitar a conhexão), algo parecido com: 
-        > congodb+srv://menunome:senha@NOMEBD.hrgnim5.mongodb.net/NOBASEDADOS?retryWrites=true&w=majority
+        `` congodb+srv://menunome:senha@NOMEBD.hrgnim5.mongodb.net/NOBASEDADOS?retryWrites=true&w=majority``
  
   
   3. Com o banco criado, você precisará criar um arquivo .env na raíz do projeto, onde ficará os arquivos confidencias da conexão como link de conexão, usuário e senha. Nesse arquivo vc coloca: <br>
