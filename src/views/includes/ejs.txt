@@ -1,0 +1,5 @@
+<% Controle de fluxo (códigos em javascript, deve abrir e fechar em todas as linhas)%>
+<% imprime escapando caracteres %>
+<%- imprime sem escapar caracteres %>
+<%# comentario %>
+<%- include('CAMINHO/ARQUIVO')>
