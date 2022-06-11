@@ -9,7 +9,7 @@
   - Pro banco de dados foi usado o MongoDB. E foi uma esperiência bem legal, pois eu tenho um conhecimento em SQL e bancos relacionais, e esse foi o primeiro contato com um banco não relacional. E uma das coisas que achei interessante foi tentar criar uma relação em um banco não relacional, mesmo sabendo que não é a melhor prática.
   
   - O server dessa aplicação foi feito usando NodeJS, com api's como express, webpack para poder ser usado em diferentes navegadores, Dotenv, validator e bscrypt. 
-  - Nas views eu usei como formatador o EJS que é bem parecido com  o html, tendo maior diferencial na minha opinião as chaves de abertura para códigos javascript.
+  - Nas views eu usei como formatador o EJS que é bem parecido com  o html, tendo maior diferencial na minha opinião as chaves de abertura para códigos javascript. O server foi está em funcionamento na google cloud plataform.
 
 
 ### Como executar a aplicação?
