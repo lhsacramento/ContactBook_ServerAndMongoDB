@@ -21,7 +21,7 @@ exports.register = async function(req,res){
 
         req.flash('success','Contato criado com sucesso!');
         req.session.save(function(){ 
-            res.redirect(`/contact/index/${contact.contact._id}`);
+            res.redirect('/');
         });
         return;
     }catch(e){

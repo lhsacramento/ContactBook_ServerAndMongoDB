@@ -1,0 +1,13 @@
+.navbar-collapse{
+    display: flex!important;
+    flex-basis: auto;
+}
+
+.navbar-nav{
+    flex-direction: row;
+}
+
+.navbar-nav .nav-item .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
