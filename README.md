@@ -1,4 +1,4 @@
-##  Agenda com server Node.js e MongoDB : [Clique aqui para cessar a aplicação Online](https://agenda.luizsacramento.com.br)
+##  Agenda com server Node.js e MongoDB : (OFFLINE) [Clique aqui para cessar a aplicação Online](https://agenda.luizsacramento.com.br)
 
   Esse projeto é basicamente uma agenda de contatos, onde você irá criar uma conta, fazer login e também adicionar, editar e cadastrar contatos em sua agenda.
   
